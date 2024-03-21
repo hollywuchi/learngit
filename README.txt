@@ -1,2 +1,2 @@
 git is a free software
-git is convenient and good 
+git is convenient and good and nice
